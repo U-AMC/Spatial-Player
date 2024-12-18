@@ -1,1 +1,1 @@
-# DiTer-Player
+# DiTer++ Player
