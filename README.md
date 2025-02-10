@@ -1,4 +1,4 @@
-# Spatial-Player
+
 <p align="center"><img src=figure/logo.jpg></p>
 
 Spatial Player is a modular utility which enables data publish through ROS-Noetic (EOL May 2025), and ROS-Humble
