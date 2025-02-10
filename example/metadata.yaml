@@ -1,0 +1,13 @@
+
+camera: [
+  "/cam_d/image_raw_left", 
+  "/cam_d/image_raw_right"
+]
+
+lidar: [
+  "/ouster/points"
+]
+
+imu: [
+  "/ouster/imu"
+]

@@ -1,0 +1,9 @@
+<launch>
+    <arg name="metadata_path" default="/media/jngu/SPSSDT5/record_test/metadata.yaml" />
+
+    <node name="data_player" pkg="data_player" type="data_player_node" output="screen" clear_params="true" required="true">
+        <!-- master configuration object -->
+        <param name="metadata"              type="string" value="$(arg metadata_path)" />
+    </node>
+
+</launch>
